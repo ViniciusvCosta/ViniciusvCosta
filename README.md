@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusvCosta&hide_progress=true&theme=github_dark)](https://github.com/ViniciusvCosta/github-readme-stats)
   
   
-  <a href="https://www.linkedin.com/in/vinicius-ventura-da-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vinicius-ventura-da-costa-29803022b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
